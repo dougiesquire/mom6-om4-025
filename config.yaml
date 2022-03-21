@@ -19,7 +19,6 @@ collate: false
 runlog: false
 storage:
   gdata:
-    - ua8
     - ik11
 
 mpi:
