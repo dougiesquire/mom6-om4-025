@@ -1,0 +1,26 @@
+project: x77
+queue: normal
+ncpus: 1756
+jobfs: 10GB
+
+walltime: 04:00:00
+jobname: OM4_025.JRA
+
+shortpath: /scratch/x77
+
+model: mom6
+exe: /g/data/ik11/inputs/mom6/bin/symmetric_FMS2-e7d09b7
+input:
+    - /g/data/ik11/inputs/mom6/OM4_025.JRA
+    - /g/data/ik11/inputs/mom6/regrid_runoff
+    - /g/data/ik11/inputs/JRA-55/RYF/v1-4
+
+collate: false
+runlog: false
+storage:
+  gdata:
+    - ua8
+    - ik11
+
+mpi:
+    module: openmpi/4.1.2

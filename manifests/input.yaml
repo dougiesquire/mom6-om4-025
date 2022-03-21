@@ -1,0 +1,1364 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/.datasets/CORE.tgz:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE.tgz
+  hashes:
+    binhash: 9c98de3e643e0e7277de992c6717f4a6
+    md5: 8dffa1a9118e4d71a7c43905a2880f94
+work/INPUT/.datasets/CORE/NYF_v2.0/ncar_precip.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/ncar_precip.clim.nc
+  hashes:
+    binhash: 92b7815261cf079ed00d726356aea25c
+    md5: 71235d8dac21cc62836c35c0c068923c
+work/INPUT/.datasets/CORE/NYF_v2.0/ncar_rad.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/ncar_rad.clim.nc
+  hashes:
+    binhash: ca01ee7d89521ee8b4c2496b55fc098d
+    md5: 0964b91c2b9f19295a23c2e00ab6ef0c
+work/INPUT/.datasets/CORE/NYF_v2.0/q_10_mod.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/q_10_mod.clim.nc
+  hashes:
+    binhash: af78a885fe352ffde6e396ee1c37dac7
+    md5: 09b6de3fd2555aa212fdbe1f2059c138
+work/INPUT/.datasets/CORE/NYF_v2.0/slp.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/slp.clim.nc
+  hashes:
+    binhash: c1ce6ffad796372e4f76c57422d26a27
+    md5: 95232a02719417ca08c808eba1de26c2
+work/INPUT/.datasets/CORE/NYF_v2.0/t_10_mod.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/t_10_mod.clim.nc
+  hashes:
+    binhash: 5a2fcbe65729d75a78543579a705cbef
+    md5: 7e6fef9eb022b5f51e6e85cc78848db2
+work/INPUT/.datasets/CORE/NYF_v2.0/u_10_mod.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/u_10_mod.clim.nc
+  hashes:
+    binhash: 7fd47558d3ff95c8a78d3bac3c75f2ec
+    md5: 8b5b0c55c0a9e455be6fb8ee8d11c78a
+work/INPUT/.datasets/CORE/NYF_v2.0/v_10_mod.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/v_10_mod.clim.nc
+  hashes:
+    binhash: c929aa9758cffbefe248b1deb2795281
+    md5: 6f4c414b7d7259bfe599b25b3b8089c0
+work/INPUT/.datasets/OM4_025.tgz:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025.tgz
+  hashes:
+    binhash: 48364048fc6416a8235096254a20314a
+    md5: a919ce7ef1639e50d8a56458cdf9513d
+? work/INPUT/.datasets/OM4_025/INPUT.JRA.v2019.07.04/friver_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_19580101-19581231.padded.compressed.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT.JRA.v2019.07.04/friver_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_19580101-19581231.padded.compressed.nc
+  hashes:
+    binhash: dec15b73c8aab62974afe22a2e1bb2d8
+    md5: 84111c7c665988bb7c7b4b02068cff5f
+work/INPUT/.datasets/OM4_025/INPUT.JRA.v2019.07.04/geothermal_davies2013_v1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT.JRA.v2019.07.04/geothermal_davies2013_v1.nc
+  hashes:
+    binhash: ed330cc1cc1b51f948e1fc2f3a3e1afd
+    md5: b52b54b762fd8351100248957e20e5fd
+? work/INPUT/.datasets/OM4_025/INPUT.JRA.v2019.07.04/licalvf_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_19580101-19581231.padded.compressed.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT.JRA.v2019.07.04/licalvf_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_19580101-19581231.padded.compressed.nc
+  hashes:
+    binhash: 4ccded2296521e4734429dd4f273964e
+    md5: cf3952b8ae1fa94b80db4d41d5d6c4e0
+work/INPUT/.datasets/OM4_025/INPUT.JRA.v2019.07.04/salt_restore_JRA.1440x1080.v20190706.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT.JRA.v2019.07.04/salt_restore_JRA.1440x1080.v20190706.nc
+  hashes:
+    binhash: 5934f1cc3544761437d761ca87849488
+    md5: dc041a509fbfd3287578c715637ed7f5
+work/INPUT/.datasets/OM4_025/INPUT.JRA.v2019.07.04/seawifs-clim-1997-2010.1440x1080.v20180328.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT.JRA.v2019.07.04/seawifs-clim-1997-2010.1440x1080.v20180328.nc
+  hashes:
+    binhash: d502a07852071857384a551017557758
+    md5: 8abce626bb654bde23ccc1664bc77608
+work/INPUT/.datasets/OM4_025/INPUT.JRA.v2019.07.04/tidal_amplitude.v20140616.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT.JRA.v2019.07.04/tidal_amplitude.v20140616.nc
+  hashes:
+    binhash: 6d30ba1e682dedb53cceae00c7a9974a
+    md5: 27b75fed981c011654a3512bcc094100
+work/INPUT/.datasets/OM4_025/INPUT/geothermal_davies2013_v1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT/geothermal_davies2013_v1.nc
+  hashes:
+    binhash: b2642c58437cd2cc3090c39ff7c6de3a
+    md5: b52b54b762fd8351100248957e20e5fd
+work/INPUT/.datasets/OM4_025/INPUT/runoff.daitren.clim.1440x1080.v20180328.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT/runoff.daitren.clim.1440x1080.v20180328.nc
+  hashes:
+    binhash: 4f72b477b4ac06c0080a7cbb77cd7ee0
+    md5: 52863401931b15385b73005893ebef6d
+work/INPUT/.datasets/OM4_025/INPUT/runoff.daitren.iaf.1440x1080.v20180328.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT/runoff.daitren.iaf.1440x1080.v20180328.nc
+  hashes:
+    binhash: 82f94c0d39a604d3242b70bc1781cbde
+    md5: bcb3b0d5e076b559e6e83bcf8474b67d
+work/INPUT/.datasets/OM4_025/INPUT/salt_restore_PHC2.1440x1080.v20180405.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT/salt_restore_PHC2.1440x1080.v20180405.nc
+  hashes:
+    binhash: 29e33f59779dab69740c7a8faf39b68e
+    md5: 80bc59b1185aa7703704a07324eba27d
+work/INPUT/.datasets/OM4_025/INPUT/seawifs-clim-1997-2010.1440x1080.v20180328.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT/seawifs-clim-1997-2010.1440x1080.v20180328.nc
+  hashes:
+    binhash: 2d5a2c8489a0587d0a5c5ab56b3a5a73
+    md5: 8abce626bb654bde23ccc1664bc77608
+work/INPUT/.datasets/OM4_025/INPUT/tidal_amplitude.v20140616.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT/tidal_amplitude.v20140616.nc
+  hashes:
+    binhash: 885763483baeba74f3a39d714adb0677
+    md5: 27b75fed981c011654a3512bcc094100
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/atmos_mosaic_tile1Xland_mosaic_tile1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/atmos_mosaic_tile1Xland_mosaic_tile1.nc
+  hashes:
+    binhash: 624b3d53952e6855e14a0d221098c171
+    md5: 93d29d09cee80224bc4dc6e815a5a482
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/atmos_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 91e422c82cbd174e207db355d55a805e
+    md5: 5cfd7c92ab4b432a3a0690139b324dd8
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/grid_spec.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/grid_spec.nc
+  hashes:
+    binhash: f30146b3e7e2a122ea13813db342e38e
+    md5: 655dafc9631676b90144c68c4d33cbdb
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/land_mask.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/land_mask.nc
+  hashes:
+    binhash: c917cd4d28d6cb37cabf4c65f07647cd
+    md5: 55b6c38a1345895545d04b92b23e364d
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/land_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/land_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 7f70c503b8d7b0a315a269449ec5f1b1
+    md5: d80ae5cf312b497d0b6de56741ca5f93
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1053.90x45.2997:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1053.90x45.2997
+  hashes:
+    binhash: 8c38c6989bd816f6d8928b8288f42610
+    md5: 268b048769fce43adee71f0b9c53dd74
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1309.90x54.3551:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1309.90x54.3551
+  hashes:
+    binhash: 9091eef3f1d648c9842a89e199704b61
+    md5: 66669b2d98cd5fe91832fef3d934c30c
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1402.72x72.3782:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1402.72x72.3782
+  hashes:
+    binhash: 70db7647ed0bbb1bd9696bcb6b3ce6e0
+    md5: bfa3f69cf3197b2efb424cd4f2184f43
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1809.90x72.4671:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1809.90x72.4671
+  hashes:
+    binhash: 4346abe55ecfd6cc719b59b9833e4fd3
+    md5: 4e648367216f0e1be45550514912becd
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.2309.90x90.5791:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.2309.90x90.5791
+  hashes:
+    binhash: a100d98468e5a76328064265de2961e8
+    md5: 8d3312c3797a09e21665e1e273e551eb
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.242.32x36.910:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.242.32x36.910
+  hashes:
+    binhash: 1fb52115e1d065681366eb3e48d74083
+    md5: bb590fa0ef60adcfc6dd58ce50e35f31
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.2428.90x95.6122:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.2428.90x95.6122
+  hashes:
+    binhash: 6f39520b3de7cc66ab59d0fe11e33f0a
+    md5: 06a2f60f2b90c34e46cf9d6010641d40
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.2570.90x100.6430:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.2570.90x100.6430
+  hashes:
+    binhash: 2b07ba2274208a9697b35ad966833791
+    md5: ea0d9d86de8349d356110f11bd84b190
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.274.36x36.1022:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.274.36x36.1022
+  hashes:
+    binhash: c60ca5fb9caee673cd50a4dd060eb47a
+    md5: 77d9bc48d1cecf3a99b10f31d8ec7c34
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.315.32x45.1125:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.315.32x45.1125
+  hashes:
+    binhash: 2d44e42808f54ae607817fe4749bfb44
+    md5: 747cf958fd2f849a0f88e0ca291e07a1
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.33.16x18.255:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.33.16x18.255
+  hashes:
+    binhash: 3036648629954475177d2eef507cfb07
+    md5: 1186fee0dac930e8ac43adcbbeb4efdd
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.3785.90x144.9175:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.3785.90x144.9175
+  hashes:
+    binhash: 4a0618f4b8a27cb7de0dfe7efa728361
+    md5: 98daa1ae0cebf4fe9d79d5cd77aa008d
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.548.32x72.1756:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.548.32x72.1756
+  hashes:
+    binhash: f5efe00c8908be0258638e6ecc7bcef4
+    md5: db3add3fd8e4cebdf7657c4b1f162ffa
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.622.36x72.1970:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.622.36x72.1970
+  hashes:
+    binhash: 47a1e9f80e382ab1ad7ad2723cf5ffea
+    md5: 95155402e4719c6c517d73bdc474264d
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.808.45x72.2440:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.808.45x72.2440
+  hashes:
+    binhash: 418f7b6bad447da5c533fee7141c36e3
+    md5: 75bd211468c0cb598bfe9f4d425e70cd
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.96.32x18.480:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.96.32x18.480
+  hashes:
+    binhash: 8aab8622182f0016dd5fcd61923f635c
+    md5: d5f7bcdd14090f631f410f2d5208f563
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_hgrid.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_hgrid.nc
+  hashes:
+    binhash: 8a2b320b4497d3fe2a658e5aef5d043b
+    md5: fa8711331a6e12c89346c0cdf833a061
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_mask.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_mask.nc
+  hashes:
+    binhash: d3527b78369e2e53ed8745ebcd5b6ce8
+    md5: 98064d943b3fa9c2c2692cce9b1d479f
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_mosaic.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_mosaic.nc
+  hashes:
+    binhash: d4c221f269aa2def2a630945bdb963fd
+    md5: 9e78821410fd496ea81fd3b8de0b14ad
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_topog.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_topog.nc
+  hashes:
+    binhash: c71344c5863fe0749b2d53a133bbf8be
+    md5: e46d378b4261992d5e43af30a7bf1a40
+work/INPUT/.datasets/obs.tgz:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/obs.tgz
+  hashes:
+    binhash: 48bfad6dbf7292a73e41a0b9aaedd154
+    md5: d89e55a9608904ff77d1527da333fd1d
+work/INPUT/.datasets/obs.woa13.tgz:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/obs.woa13.tgz
+  hashes:
+    binhash: 3ff9a043dc8d7ffd908005733043a3b5
+    md5: 3e8f9c3d2c35a1037b5fe4ee724387d1
+work/INPUT/.datasets/obs/NOAA-NODC/WOA13/v2a/woa13_decav_ptemp_monthly_fulldepth_01.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/obs/NOAA-NODC/WOA13/v2a/woa13_decav_ptemp_monthly_fulldepth_01.nc
+  hashes:
+    binhash: f50e2b4d589b7995daef53a38bcd7782
+    md5: 8d9b58744a9481c2ca611d66aa1c05e4
+work/INPUT/.datasets/obs/NOAA-NODC/WOA13/v2a/woa13_decav_s_monthly_fulldepth_01.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/obs/NOAA-NODC/WOA13/v2a/woa13_decav_s_monthly_fulldepth_01.nc
+  hashes:
+    binhash: c71b59034760a03c7a54862376a3bf5e
+    md5: 5fbe1570da47c731d3be16d84a7e654d
+work/INPUT/.datasets/obs/WOA05_pottemp_salt.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/obs/WOA05_pottemp_salt.nc
+  hashes:
+    binhash: c8f35182440a9634dc4110ca7de829a9
+    md5: 46803f1e1595e29ea527086438a58391
+work/INPUT/.datasets/reanalysis.tgz:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis.tgz
+  hashes:
+    binhash: e8be23ef54601ed2f6e8569e0001790d
+    md5: 676799703ee1c1c31b2643a382bb8664
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/huss_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/huss_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+  hashes:
+    binhash: d6d9e2dce1931c1cb340a22566b50765
+    md5: a4d99959325dfeac079e9c061eb8413b
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/prra_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/prra_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+  hashes:
+    binhash: 0d3984b34527c48859caf81f9ca4d1cc
+    md5: dfe7a05442ee9f98e1fc06ac013db10b
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/prsn_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/prsn_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+  hashes:
+    binhash: 730bc8106a67bf9bfe3783a2e248b6f3
+    md5: e4f4faa264b690c93b14d475ef145ef9
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/psl_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/psl_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+  hashes:
+    binhash: db03eed3c45d8e2ef2c096fcceeb12fc
+    md5: 82be805b742346b2d276976f9f4c310c
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/rlds_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/rlds_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+  hashes:
+    binhash: 3b62ea397f63997f5e451c3d0487b9bf
+    md5: 158bef46d7434b4f6eb8124830f51695
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/rsds_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/rsds_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+  hashes:
+    binhash: ded00da06f77574fbedc17e080a339e9
+    md5: d24686ca0e326629281e34e878b8d1d1
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/tas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/tas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+  hashes:
+    binhash: 5b2a887b029854e415d354d554426cce
+    md5: 9b644f9e9447626b6d4480ff83290da5
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/uas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/uas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+  hashes:
+    binhash: 2e031c09b30d2578c0e6b8e0712c246a
+    md5: 07118cd22abefb9e7d265b3a993e9df5
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/vas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/vas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+  hashes:
+    binhash: fc1c5a414b4e37eab4a20d814e7d6e85
+    md5: 45a7077efe20f728d1d659968c4d4ac5
+work/INPUT/.git/HEAD:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/HEAD
+  hashes:
+    binhash: 95721451bc000aaf74c1c849573211e5
+    md5: 4cf2d64e44205fe628ddd534e1151b58
+work/INPUT/.git/config:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/config
+  hashes:
+    binhash: fd19bdfe79a1c7b35bbabb7960d5921d
+    md5: d8d53cf221b4f7d13d2a9bbee50be99a
+work/INPUT/.git/description:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/description
+  hashes:
+    binhash: d5b0b0171cdcacfae8ea2e54af8069cb
+    md5: a0a7c3fff21f2aea3cfa1d0316dd816c
+work/INPUT/.git/hooks/applypatch-msg.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/applypatch-msg.sample
+  hashes:
+    binhash: 883d5dbce7f7734f905441bdaebb2466
+    md5: ce562e08d8098926a3862fc6e7905199
+work/INPUT/.git/hooks/commit-msg.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/commit-msg.sample
+  hashes:
+    binhash: bc06148444eb09d6191e8522381472e2
+    md5: 579a3c1e12a1e74a98169175fb913012
+work/INPUT/.git/hooks/fsmonitor-watchman.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/fsmonitor-watchman.sample
+  hashes:
+    binhash: 17cebee491466b33fee6dc26cda30bc2
+    md5: ea587b0fae70333bce92257152996e70
+work/INPUT/.git/hooks/post-update.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/post-update.sample
+  hashes:
+    binhash: d0f9371e8f37d0fb051283946e26df96
+    md5: 2b7ea5cee3c49ff53d41e00785eb974c
+work/INPUT/.git/hooks/pre-applypatch.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/pre-applypatch.sample
+  hashes:
+    binhash: 68b5e93a185935f01c486e76d445f82d
+    md5: 054f9ffb8bfe04a599751cc757226dda
+work/INPUT/.git/hooks/pre-commit.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/pre-commit.sample
+  hashes:
+    binhash: 301f60cdc40644f2b03a6482d89e4023
+    md5: 305eadbbcd6f6d2567e033ad12aabbc4
+work/INPUT/.git/hooks/pre-merge-commit.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/pre-merge-commit.sample
+  hashes:
+    binhash: 8bb9ed9cd006429842640c8977eccbc0
+    md5: 39cb268e2a85d436b9eb6f47614c3cbc
+work/INPUT/.git/hooks/pre-push.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/pre-push.sample
+  hashes:
+    binhash: f612329fe23ce199cf190acfc4a313d1
+    md5: 2c642152299a94e05ea26eae11993b13
+work/INPUT/.git/hooks/pre-rebase.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/pre-rebase.sample
+  hashes:
+    binhash: 3e5307877013c37d26ccc32a9bd0458a
+    md5: f4f15211d835b40272bf02b2a3ab609d
+work/INPUT/.git/hooks/pre-receive.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/pre-receive.sample
+  hashes:
+    binhash: 0db701d77a6cc8b12da55a6084ff4566
+    md5: 2ad18ec82c20af7b5926ed9cea6aeedd
+work/INPUT/.git/hooks/prepare-commit-msg.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/prepare-commit-msg.sample
+  hashes:
+    binhash: f5c78b722ce904fe4107e26083b94d87
+    md5: 52d621c197777800cb27c3c7e53da0b0
+work/INPUT/.git/hooks/push-to-checkout.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/push-to-checkout.sample
+  hashes:
+    binhash: 467b87912f85cb67db9e2a524defb985
+    md5: c7ab00c7784efeadad3ae9b228d4b4db
+work/INPUT/.git/hooks/update.sample:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/hooks/update.sample
+  hashes:
+    binhash: 9d7868bd6c4e35602c40db798ea5edc7
+    md5: 647ae13c682f7827c22f5fc08a03674e
+work/INPUT/.git/index:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/index
+  hashes:
+    binhash: f62bd7c59e44bf5ddb17350079b60a03
+    md5: 5b926f15f96be57958ba8feb2d50420e
+work/INPUT/.git/info/exclude:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/info/exclude
+  hashes:
+    binhash: cbc3d19d15bbccf607397909e22acdf4
+    md5: 036208b4a1ab4a235d75c181e685e5a3
+work/INPUT/.git/logs/HEAD:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/logs/HEAD
+  hashes:
+    binhash: 6914b094c2570b8300ad84055420c670
+    md5: 089b1a7ab4060dac1c47f9e6e6736e3a
+work/INPUT/.git/logs/refs/heads/master:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/logs/refs/heads/master
+  hashes:
+    binhash: eb197a093e526d9ec80b4dcaed79fed7
+    md5: 089b1a7ab4060dac1c47f9e6e6736e3a
+work/INPUT/.git/logs/refs/remotes/origin/HEAD:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/logs/refs/remotes/origin/HEAD
+  hashes:
+    binhash: 6914b094c2570b8300ad84055420c670
+    md5: 089b1a7ab4060dac1c47f9e6e6736e3a
+work/INPUT/.git/objects/pack/pack-c5103e9f11db47ec51826c975e4b2d93898b7bd4.idx:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/objects/pack/pack-c5103e9f11db47ec51826c975e4b2d93898b7bd4.idx
+  hashes:
+    binhash: 46c6866da9f9beda9662b3d21321ac0e
+    md5: c80173fb738eb53c5ae1e881d7302e9d
+work/INPUT/.git/objects/pack/pack-c5103e9f11db47ec51826c975e4b2d93898b7bd4.pack:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/objects/pack/pack-c5103e9f11db47ec51826c975e4b2d93898b7bd4.pack
+  hashes:
+    binhash: 63921b6c5dab4c2bd1bba715d4425fe9
+    md5: b8a76753c88d8699e4a8f93a9ab81229
+work/INPUT/.git/packed-refs:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/packed-refs
+  hashes:
+    binhash: afe13645cc8f3df695ed733b7e4bc9dd
+    md5: b2681ff1924a577cb29bfd5898a93bb9
+work/INPUT/.git/refs/heads/master:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/refs/heads/master
+  hashes:
+    binhash: 224afc18e5dd10619c1f627fdf4cad64
+    md5: 0d0e515465061f59d800366940a7074f
+work/INPUT/.git/refs/remotes/origin/HEAD:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.git/refs/remotes/origin/HEAD
+  hashes:
+    binhash: 91f8ecd8f05619ee6e3160e37cb305bb
+    md5: 73a00957034783b7b5c8294c54cd3e12
+work/INPUT/.ipynb_checkpoints/Regrid runoff data-checkpoint.ipynb:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/.ipynb_checkpoints/Regrid runoff
+    data-checkpoint.ipynb
+  hashes:
+    binhash: 7685e8512c342440acadebe75ad71b70
+    md5: 69c66e4762947b1ffa29b85ad847932f
+work/INPUT/All_edits.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/All_edits.nc
+  hashes:
+    binhash: 9393602c633e6f765c5fe51413c6d55f
+    md5: d10381a878ba32b7813253b52b76f3da
+work/INPUT/JRA_friver.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_friver.nc
+  hashes:
+    binhash: 518aa38b5e0cd96017b4228f5558081f
+    md5: 84111c7c665988bb7c7b4b02068cff5f
+work/INPUT/JRA_huss.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_huss.nc
+  hashes:
+    binhash: e0129ff43839aeb93f8791f00e0af99d
+    md5: a4d99959325dfeac079e9c061eb8413b
+work/INPUT/JRA_licalvf.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_licalvf.nc
+  hashes:
+    binhash: 9ba9b9399d72637ed33de2f75e7f2606
+    md5: cf3952b8ae1fa94b80db4d41d5d6c4e0
+work/INPUT/JRA_prra.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_prra.nc
+  hashes:
+    binhash: 3fcde135d7efd90ef93aa97e3adeae90
+    md5: dfe7a05442ee9f98e1fc06ac013db10b
+work/INPUT/JRA_prsn.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_prsn.nc
+  hashes:
+    binhash: 8e58df557f7b8fb3f35cf05328f8eb3a
+    md5: e4f4faa264b690c93b14d475ef145ef9
+work/INPUT/JRA_psl.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_psl.nc
+  hashes:
+    binhash: 4ddd23680a0896b16b08d5fcdae0a4ac
+    md5: 82be805b742346b2d276976f9f4c310c
+work/INPUT/JRA_rlds.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_rlds.nc
+  hashes:
+    binhash: 4f2bd6b04e376cd47b1177e86481307c
+    md5: 158bef46d7434b4f6eb8124830f51695
+work/INPUT/JRA_rsds.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_rsds.nc
+  hashes:
+    binhash: 3d83fd194eb1628120bc229531f16001
+    md5: d24686ca0e326629281e34e878b8d1d1
+work/INPUT/JRA_tas.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_tas.nc
+  hashes:
+    binhash: 0cb4f30bb25415a8c8d3e5cc2f0374b3
+    md5: 9b644f9e9447626b6d4480ff83290da5
+work/INPUT/JRA_uas.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_uas.nc
+  hashes:
+    binhash: 07a5af9797db7fcab2c55f683a08ae0a
+    md5: 07118cd22abefb9e7d265b3a993e9df5
+work/INPUT/JRA_vas.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_vas.nc
+  hashes:
+    binhash: 4de91210878c56bb611b16af0929353d
+    md5: 45a7077efe20f728d1d659968c4d4ac5
+work/INPUT/MOM_channels_global_025:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/MOM_channels_global_025
+  hashes:
+    binhash: 060f86f854d33775c46ec7adf3f3fa10
+    md5: 1370f6237715504e67d36784f0d6f47b
+work/INPUT/README.md:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/README.md
+  hashes:
+    binhash: fe2da061ea1482891fb0b0f05418c14c
+    md5: e3436530e7c288f54cc5418516a97c0c
+work/INPUT/RYF.friver.1990_1991.OM4_025.nc:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/RYF.friver.1990_1991.OM4_025.nc
+  hashes:
+    binhash: b81066a9cb6c3db3b8d7974392ff5427
+    md5: 312747756aeee242d90e50ada209122b
+work/INPUT/RYF.friver.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/RYF.friver.1990_1991.nc
+  hashes:
+    binhash: df5b6715e020f563acb65673571a565f
+    md5: fa3a55aeb6706a1b422d096f61a772c1
+work/INPUT/RYF.huss.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/RYF.huss.1990_1991.nc
+  hashes:
+    binhash: 71d6099511ebc8b43f9b86b325ecf3af
+    md5: 6032d514fdfdd2b6a84bdef0a4ac3afe
+work/INPUT/RYF.licalvf.1990_1991.OM4_025.nc:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/RYF.licalvf.1990_1991.OM4_025.nc
+  hashes:
+    binhash: 78a5d8bb21e2b4964f9d67ac6977278a
+    md5: 2cd93eaa2eb6d6a835040c553a5b00e1
+work/INPUT/RYF.licalvf.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/RYF.licalvf.1990_1991.nc
+  hashes:
+    binhash: f219ce98f3fcbe6f8ec517740f01aee1
+    md5: 6f927702cbc023cc20d3ddd69695f0a0
+work/INPUT/RYF.prra.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/RYF.prra.1990_1991.nc
+  hashes:
+    binhash: 2754bd49fff02bf5330a086310f1c296
+    md5: ac199086106ec4e41506e6082bccb109
+work/INPUT/RYF.prsn.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/RYF.prsn.1990_1991.nc
+  hashes:
+    binhash: 154a15cde4940309ac5e6fef0d7faba4
+    md5: cd076c877c2c5df61615e04d71ed00e0
+work/INPUT/RYF.psl.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/RYF.psl.1990_1991.nc
+  hashes:
+    binhash: 559b1e3183475cfb94a7f013f4acf8ea
+    md5: 0dfd94a5c3234fd2016dfdd01e84a170
+work/INPUT/RYF.rhuss.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/RYF.rhuss.1990_1991.nc
+  hashes:
+    binhash: 1f70c237032f7368e6f2478d2a678c99
+    md5: 632519955305cb5c19e286b151439fb5
+work/INPUT/RYF.rlds.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/RYF.rlds.1990_1991.nc
+  hashes:
+    binhash: 9512836673a68507bed403ecd859ba38
+    md5: 0ea83e107ec883c3f39a12b60ff50d8e
+work/INPUT/RYF.rsds.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/RYF.rsds.1990_1991.nc
+  hashes:
+    binhash: 7ff7cd79ace33fefe2b9a91ea018ea14
+    md5: b74bf123f1e4557368a61732cf24f1c2
+work/INPUT/RYF.runoff_all.1990_1991.panan01.nc:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/RYF.runoff_all.1990_1991.panan01.nc
+  hashes:
+    binhash: ee8636a0d67330ff97e000b6a6aa738c
+    md5: 35211a12c7c1a338542ae8fc92ae941b
+work/INPUT/RYF.runoff_all.1990_1991.panan01_cropped.nc:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/RYF.runoff_all.1990_1991.panan01_cropped.nc
+  hashes:
+    binhash: 82e162f55318ece981b16cb968c829d0
+    md5: 13bab92096d2fe2cd78d318e40997164
+work/INPUT/RYF.runoff_all.1990_1991.panan01_new.nc:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/RYF.runoff_all.1990_1991.panan01_new.nc
+  hashes:
+    binhash: 63cda60213cc8734a39e69390a5d7f8a
+    md5: 46176868a71f726ace9a069217afbf49
+work/INPUT/RYF.runoff_all.1990_1991.panan01_new_new.nc:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/RYF.runoff_all.1990_1991.panan01_new_new.nc
+  hashes:
+    binhash: 90ad10dcf275f7f06a4dfea4d5cb66c0
+    md5: 46176868a71f726ace9a069217afbf49
+work/INPUT/RYF.tas.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/RYF.tas.1990_1991.nc
+  hashes:
+    binhash: 8f3c6798cc92a1d0b6573eb44b2a4dd2
+    md5: 06689885f4f2f726b95a2818ab78a20d
+work/INPUT/RYF.uas.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/RYF.uas.1990_1991.nc
+  hashes:
+    binhash: 54ede2172bf85bc861bc64c296a03f8c
+    md5: 107bf9480f55597655d2d283b6f6b4ff
+work/INPUT/RYF.vas.1990_1991.nc:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/RYF.vas.1990_1991.nc
+  hashes:
+    binhash: 17224eecb745b6ce72604b41201c1fe7
+    md5: 88dc8c70338bbc8f5efc48ed0009a99f
+work/INPUT/Regrid runoff data.ipynb:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/Regrid runoff data.ipynb
+  hashes:
+    binhash: fcc10fef354130ca545795c5014426f2
+    md5: 78f05654fc0aa490324f2c2e97f07f6c
+work/INPUT/atmos_mosaic_tile1Xland_mosaic_tile1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/atmos_mosaic_tile1Xland_mosaic_tile1.nc
+  hashes:
+    binhash: 5580ee858bb90e236774b88be1634aca
+    md5: 93d29d09cee80224bc4dc6e815a5a482
+work/INPUT/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/atmos_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 115649811bd1d857b279253a57407fa6
+    md5: 5cfd7c92ab4b432a3a0690139b324dd8
+work/INPUT/geothermal_davies2013_v1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/geothermal_davies2013_v1.nc
+  hashes:
+    binhash: 66271a3e6e0ae26a10e23d6f1f2ccba8
+    md5: b52b54b762fd8351100248957e20e5fd
+work/INPUT/grid_spec.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/grid_spec.nc
+  hashes:
+    binhash: 4a439f104254af175fb4d8573ca50a0d
+    md5: 655dafc9631676b90144c68c4d33cbdb
+work/INPUT/hycom1_75_800m.cdl:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/hycom1_75_800m.cdl
+  hashes:
+    binhash: 6413595ff2a9496d46c422f5edd8403e
+    md5: 8cc2006428e52f3fdc697e384376eb2b
+work/INPUT/hycom1_75_800m.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/hycom1_75_800m.nc
+  hashes:
+    binhash: 96a0cfd380fa8b29618dc655bf0fdff9
+    md5: 023b23f6b55e6f3b3de6778e608d0d3d
+work/INPUT/land_mask.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/land_mask.nc
+  hashes:
+    binhash: 843f1241bc209b680a8fc9fa7a3cf80d
+    md5: 55b6c38a1345895545d04b92b23e364d
+work/INPUT/land_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/land_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 322bbf1dd720f5ab4df324d9a1b39ce1
+    md5: d80ae5cf312b497d0b6de56741ca5f93
+work/INPUT/make_rhuss/.git/FETCH_HEAD:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/FETCH_HEAD
+  hashes:
+    binhash: 1998779dd60450dd2566c99ef26bc8cf
+    md5: 08308ca18d82c27b2c88ae21b91135d8
+work/INPUT/make_rhuss/.git/HEAD:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/HEAD
+  hashes:
+    binhash: 5492b62deb76530b4bd9e9356a05b769
+    md5: cf7dd3ce51958c5f13fece957cc417fb
+work/INPUT/make_rhuss/.git/ORIG_HEAD:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/ORIG_HEAD
+  hashes:
+    binhash: 0b4bc800f3d876214560dc999b9a4261
+    md5: 2fe061bc4ba1aaf5cae494272d043ae9
+work/INPUT/make_rhuss/.git/config:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/config
+  hashes:
+    binhash: b2dd75e6977e385ebd26c01a24b39175
+    md5: 1420414dbebe26c091dcbff2cf6c892b
+work/INPUT/make_rhuss/.git/description:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/description
+  hashes:
+    binhash: 58200037251ec45351532e5a9da88478
+    md5: a0a7c3fff21f2aea3cfa1d0316dd816c
+work/INPUT/make_rhuss/.git/gitk.cache:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/gitk.cache
+  hashes:
+    binhash: e28e407f2249c21702a26e475dc7255d
+    md5: fd01bb2a4941c58bf26e017b164cfcea
+work/INPUT/make_rhuss/.git/hooks/applypatch-msg.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/applypatch-msg.sample
+  hashes:
+    binhash: 04d4cc2d8d4028615e8eecca6bb73cb0
+    md5: ce562e08d8098926a3862fc6e7905199
+work/INPUT/make_rhuss/.git/hooks/commit-msg.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/commit-msg.sample
+  hashes:
+    binhash: e063133bd925e94151ba671954c746b9
+    md5: 579a3c1e12a1e74a98169175fb913012
+work/INPUT/make_rhuss/.git/hooks/fsmonitor-watchman.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/fsmonitor-watchman.sample
+  hashes:
+    binhash: af586216249ae9fc366138cf3afa0897
+    md5: ea587b0fae70333bce92257152996e70
+work/INPUT/make_rhuss/.git/hooks/post-update.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/post-update.sample
+  hashes:
+    binhash: 3e40c70b03df5ac5c6c1c0dfe8be32ac
+    md5: 2b7ea5cee3c49ff53d41e00785eb974c
+work/INPUT/make_rhuss/.git/hooks/pre-applypatch.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/pre-applypatch.sample
+  hashes:
+    binhash: 62f53793d62fb037217569477e633d2b
+    md5: 054f9ffb8bfe04a599751cc757226dda
+work/INPUT/make_rhuss/.git/hooks/pre-commit.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/pre-commit.sample
+  hashes:
+    binhash: 0714525219caaad18be0853a8708311d
+    md5: 305eadbbcd6f6d2567e033ad12aabbc4
+work/INPUT/make_rhuss/.git/hooks/pre-merge-commit.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/pre-merge-commit.sample
+  hashes:
+    binhash: dcbdcfa4b8809abd6aefc290a1725ab4
+    md5: 39cb268e2a85d436b9eb6f47614c3cbc
+work/INPUT/make_rhuss/.git/hooks/pre-push.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/pre-push.sample
+  hashes:
+    binhash: 157d0ed15dd0766504007c073158ab4c
+    md5: 2c642152299a94e05ea26eae11993b13
+work/INPUT/make_rhuss/.git/hooks/pre-rebase.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/pre-rebase.sample
+  hashes:
+    binhash: 89671879991c0e097f228e231a5c40e6
+    md5: 4e8301b0e1f0fa38d39f4b67d3dc0e3c
+work/INPUT/make_rhuss/.git/hooks/pre-receive.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/pre-receive.sample
+  hashes:
+    binhash: 9b3a5fdc7e058fb4a9c904b563199231
+    md5: 2ad18ec82c20af7b5926ed9cea6aeedd
+work/INPUT/make_rhuss/.git/hooks/prepare-commit-msg.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/prepare-commit-msg.sample
+  hashes:
+    binhash: f6f29f6c1d8dcd4eee3d9773992b8e3b
+    md5: b08d7ea56a1844e39de452bd8fb90d31
+work/INPUT/make_rhuss/.git/hooks/push-to-checkout.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/push-to-checkout.sample
+  hashes:
+    binhash: 0daa61e3c423aa977793b20e69862908
+    md5: c7ab00c7784efeadad3ae9b228d4b4db
+work/INPUT/make_rhuss/.git/hooks/update.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/hooks/update.sample
+  hashes:
+    binhash: 662b4cb7220622762af51135268c9270
+    md5: 647ae13c682f7827c22f5fc08a03674e
+work/INPUT/make_rhuss/.git/index:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/index
+  hashes:
+    binhash: 004c905159f9bcf3527572994de01cf5
+    md5: 14529792e37002dc9b15fd192f9725a8
+work/INPUT/make_rhuss/.git/info/exclude:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/info/exclude
+  hashes:
+    binhash: e1362057623287b0d3c47a1f70e84ca9
+    md5: 036208b4a1ab4a235d75c181e685e5a3
+work/INPUT/make_rhuss/.git/logs/HEAD:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/logs/HEAD
+  hashes:
+    binhash: 97eb84a4748a29b8563086a954b58802
+    md5: cb8a68b8fdeb4e5e8fcebdd951d8b36e
+work/INPUT/make_rhuss/.git/logs/refs/heads/main:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/logs/refs/heads/main
+  hashes:
+    binhash: f887d65b54c9bee47cc44ed317d02e54
+    md5: cb8a68b8fdeb4e5e8fcebdd951d8b36e
+work/INPUT/make_rhuss/.git/logs/refs/remotes/origin/jra55_v1-3:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/logs/refs/remotes/origin/jra55_v1-3
+  hashes:
+    binhash: cd2d37ab1b4248f2c6dd5d13b8a4c8bd
+    md5: a1f5bd11f03d0e088506c248a9e85d1c
+work/INPUT/make_rhuss/.git/logs/refs/remotes/origin/main:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/logs/refs/remotes/origin/main
+  hashes:
+    binhash: 77719c6fb984a9b7dc829faafc80e1d0
+    md5: 22073a8721cedd56de4a7f82f5e75556
+work/INPUT/make_rhuss/.git/objects/06/a57d6ead40723e49a64a862bcdd7fb9c231e88:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/06/a57d6ead40723e49a64a862bcdd7fb9c231e88
+  hashes:
+    binhash: a65187140b4bb2cad38466e6645d471c
+    md5: 404615ef656ae3230f429bb5ccb8387f
+work/INPUT/make_rhuss/.git/objects/06/a6082634560a6a8065a8708fc1887626f7b9b3:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/06/a6082634560a6a8065a8708fc1887626f7b9b3
+  hashes:
+    binhash: 87d4ec1c1bc758d2a6c7b2cc91b39069
+    md5: db14b91b932e430ed0a8d17b1ed0b4cc
+work/INPUT/make_rhuss/.git/objects/07/1257d8985fa66adda87d5087ec50de9c66e69f:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/07/1257d8985fa66adda87d5087ec50de9c66e69f
+  hashes:
+    binhash: c7e028f4e66df784ba78fe81efd079ae
+    md5: f97d94e54154b08cc55c0c5e6ead39ec
+work/INPUT/make_rhuss/.git/objects/10/5227f58ee382b72cb487d39f4d7176d5b913b8:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/10/5227f58ee382b72cb487d39f4d7176d5b913b8
+  hashes:
+    binhash: 0a213f077a6a5c9a8b3f8c6d355b0eb1
+    md5: c032cc78fafb7dab3c9dad6f9a21abe9
+work/INPUT/make_rhuss/.git/objects/15/18e070a4fecc1a7eadd05dbef62e0182c50950:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/15/18e070a4fecc1a7eadd05dbef62e0182c50950
+  hashes:
+    binhash: 33ca1a7b572293381e2fca9c6b7922fe
+    md5: 376d72e429f0476b67389632849317c0
+work/INPUT/make_rhuss/.git/objects/1c/016ec6461230646ee3662b1689a947ab16c24e:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/1c/016ec6461230646ee3662b1689a947ab16c24e
+  hashes:
+    binhash: 418ec72372429cb2e7090774c3480c36
+    md5: cc3a59f067aa88f132e19aeb95e87221
+work/INPUT/make_rhuss/.git/objects/22/84d5265f05f38282f292e053ff226d008f8ca8:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/22/84d5265f05f38282f292e053ff226d008f8ca8
+  hashes:
+    binhash: af422efb19a9827db448ad1be8158531
+    md5: d2f1daa1df7f6ddffa2915a8f8e1e216
+work/INPUT/make_rhuss/.git/objects/52/8932729d5a366836905661940ff43369851586:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/52/8932729d5a366836905661940ff43369851586
+  hashes:
+    binhash: 6f7c592c1f0dbafef3d2a9d2fa9798df
+    md5: 8d8ab494c81a1cfd58350f59489e3481
+work/INPUT/make_rhuss/.git/objects/65/b3cf7611df8944ca33137a605814bccada90e9:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/65/b3cf7611df8944ca33137a605814bccada90e9
+  hashes:
+    binhash: 2b457698d8b585c5c43792cb160cbefa
+    md5: 5aa11b04b448eb7653a655b6e6fe57bd
+work/INPUT/make_rhuss/.git/objects/68/ce87e23ef7ac8301301f7dfa200426a4b18e56:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/68/ce87e23ef7ac8301301f7dfa200426a4b18e56
+  hashes:
+    binhash: c1fcf15172dae29f5ebe38a97d715214
+    md5: 411ae10a0e2e3d51dadd93808488e68d
+work/INPUT/make_rhuss/.git/objects/6b/de5d2fcfdecdca92a07370024310537393e93d:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/6b/de5d2fcfdecdca92a07370024310537393e93d
+  hashes:
+    binhash: 216903812afcb8961b3287b25cc5dd7a
+    md5: 90d4f95a2af2791da3719e241a56ceef
+work/INPUT/make_rhuss/.git/objects/6e/8d0443c14f105a31072204d059d70e1ce6e8a5:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/6e/8d0443c14f105a31072204d059d70e1ce6e8a5
+  hashes:
+    binhash: d3dae7044a128facd26fd852a416d2a9
+    md5: c41d06b2c11dc22c6a4bb52c8bcd1ca7
+work/INPUT/make_rhuss/.git/objects/72/5728c38094d5f64bf22f8e20530c56828ed743:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/72/5728c38094d5f64bf22f8e20530c56828ed743
+  hashes:
+    binhash: cc90300ea34aaaecb8c17c9081635f79
+    md5: b7febc4e8e46f369d3f62e265a9ff758
+work/INPUT/make_rhuss/.git/objects/85/b4c90d746c0cc3a7eb96445df2c8f14de95701:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/85/b4c90d746c0cc3a7eb96445df2c8f14de95701
+  hashes:
+    binhash: bbab2ef2854eca0a5be3949f396fdcbe
+    md5: 52a3984086bca87558b8405527afae7d
+work/INPUT/make_rhuss/.git/objects/88/74184df8b9aec7be674f0925967d30c931f652:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/88/74184df8b9aec7be674f0925967d30c931f652
+  hashes:
+    binhash: 6d57997e0e4f6d5dbabb3b046c1f39eb
+    md5: 5ade4213b2ae2c21a0247a2aa7b12f5f
+work/INPUT/make_rhuss/.git/objects/9e/f6d43e44be2c41e41a55b64a59c2bf3ad85460:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/9e/f6d43e44be2c41e41a55b64a59c2bf3ad85460
+  hashes:
+    binhash: 04790c7e286283e544be934a6c95c206
+    md5: 0815b2b545ae9926aba4d8288d911e86
+work/INPUT/make_rhuss/.git/objects/a2/b94c8596a5a02f4315ac44321b8770c5f3b97e:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/a2/b94c8596a5a02f4315ac44321b8770c5f3b97e
+  hashes:
+    binhash: c01dfb62c0815dfec1df0f2da0d107fd
+    md5: e862c0f9b5cd727b3bfe28fb31c8dd02
+work/INPUT/make_rhuss/.git/objects/a4/82ead3636bc861e5345586706833ddf0eb4d52:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/a4/82ead3636bc861e5345586706833ddf0eb4d52
+  hashes:
+    binhash: 9665d10705b802e9a3dde2193650da10
+    md5: 6022b05528d55dbb38fa2566d7f0e6ab
+work/INPUT/make_rhuss/.git/objects/c9/65cc32a6b9e0985fbee5da322a4b3bc8851d21:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/c9/65cc32a6b9e0985fbee5da322a4b3bc8851d21
+  hashes:
+    binhash: d54b70387a115f81365ffd939e41e150
+    md5: c8b1b91128291f60ca227802725cd4ca
+work/INPUT/make_rhuss/.git/objects/e4/446b41bc93e47f3d40c0c0ec6941793c8c1950:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/e4/446b41bc93e47f3d40c0c0ec6941793c8c1950
+  hashes:
+    binhash: cf25841f674da6cf49213e9e7d4424dd
+    md5: fea30c63b7bc0942917be493a2d4269f
+work/INPUT/make_rhuss/.git/objects/e4/c08dfe6690e318a6a9a33bc663158873b2c692:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/e4/c08dfe6690e318a6a9a33bc663158873b2c692
+  hashes:
+    binhash: 8cdc3f08e5d27c89badcc79f03035a2d
+    md5: 2289b58e1e80522bb783e357c5085449
+work/INPUT/make_rhuss/.git/objects/e8/9c3df9f0a9f07c4792bf6210a5d13cdcf1c911:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/e8/9c3df9f0a9f07c4792bf6210a5d13cdcf1c911
+  hashes:
+    binhash: 057351027e935320da15d785892cb758
+    md5: 8822ddc8501885db80c7c582d7cd24ec
+work/INPUT/make_rhuss/.git/objects/ed/ad7e071d1381812018967dafb6312401206ca2:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/ed/ad7e071d1381812018967dafb6312401206ca2
+  hashes:
+    binhash: 1337ea545f8b3d4a389810db6ae48f90
+    md5: f3573f590f00444459111854a1f4df84
+work/INPUT/make_rhuss/.git/objects/f3/3a98c6f5f23342d76ea7c969980ae027236995:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/f3/3a98c6f5f23342d76ea7c969980ae027236995
+  hashes:
+    binhash: 02aa4bca961c6fb7e37dc9e65143a395
+    md5: 8befaba4edc97fcb834bf83d5ac7e249
+work/INPUT/make_rhuss/.git/objects/f3/51b99b3ee370b66057b968a9d3b54729c98de8:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/f3/51b99b3ee370b66057b968a9d3b54729c98de8
+  hashes:
+    binhash: 6e6fd4329244cf042d99f37b974bf807
+    md5: a6578f200de81f6ce515fbc44096a130
+work/INPUT/make_rhuss/.git/objects/f7/27c35b86b1898f5480e43b9af7b182a76bfac9:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/f7/27c35b86b1898f5480e43b9af7b182a76bfac9
+  hashes:
+    binhash: a4b3a6c8eb9eb193e4f667788618d761
+    md5: 2b246a7cf27c8830402bcaf0ae742fe0
+work/INPUT/make_rhuss/.git/objects/ff/6d1311a286d44f865d4dfe6a0cf667c23330e7:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/ff/6d1311a286d44f865d4dfe6a0cf667c23330e7
+  hashes:
+    binhash: d264470d176a00f25399bf1525dd518a
+    md5: ab685997a94b55669acf5197d6bb5765
+work/INPUT/make_rhuss/.git/objects/pack/pack-86390fdf30e1910937fc9bb40e285c3053b826cb.idx:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/pack/pack-86390fdf30e1910937fc9bb40e285c3053b826cb.idx
+  hashes:
+    binhash: f4278f27422af70a0b39da2a7730f824
+    md5: f1a574c9fc44cf5e72f361998233f572
+work/INPUT/make_rhuss/.git/objects/pack/pack-86390fdf30e1910937fc9bb40e285c3053b826cb.pack:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/objects/pack/pack-86390fdf30e1910937fc9bb40e285c3053b826cb.pack
+  hashes:
+    binhash: 70831d381a54b0e60672c2b32927c439
+    md5: bfe85b9954cedcee78fdaee34b67fefb
+work/INPUT/make_rhuss/.git/packed-refs:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/packed-refs
+  hashes:
+    binhash: ce2d94dd77a79e59c04bb6be60b16b8e
+    md5: a891e6bb26eb0d480aef486a7e8ea166
+work/INPUT/make_rhuss/.git/refs/heads/main:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/refs/heads/main
+  hashes:
+    binhash: f86f83a51f907e6bde37498105a5709c
+    md5: 2fe061bc4ba1aaf5cae494272d043ae9
+work/INPUT/make_rhuss/.git/refs/remotes/origin/jra55_v1-3:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/refs/remotes/origin/jra55_v1-3
+  hashes:
+    binhash: 259c6fc0dad326fa68d895af1bbbf81c
+    md5: d94b1a32ed9adabfee1d2d3a5ecd1dbe
+work/INPUT/make_rhuss/.git/refs/remotes/origin/main:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/refs/remotes/origin/main
+  hashes:
+    binhash: 73e150a022148a171be177c46e28f514
+    md5: 2fe061bc4ba1aaf5cae494272d043ae9
+work/INPUT/make_rhuss/README.md:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/README.md
+  hashes:
+    binhash: fa17a22851464a190ace7c18e83da899
+    md5: 7f956cf019f3dc42aebe094b892d2ee8
+work/INPUT/make_rhuss/make_rhuss.py:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/make_rhuss.py
+  hashes:
+    binhash: 818634c5a8f5a01f8055e7481e298abc
+    md5: f1a7af45370283b994a960358817412c
+work/INPUT/make_ryf/.git/COMMIT_EDITMSG:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/COMMIT_EDITMSG
+  hashes:
+    binhash: 22ec7701562a961d8119c4af92a98044
+    md5: 9bc314d387974df26448af23836f5f23
+work/INPUT/make_ryf/.git/HEAD:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/HEAD
+  hashes:
+    binhash: 48c6644dd466a8ff8d22fbdda382e22a
+    md5: 2b74885bd597136c4af661a85538b2a3
+work/INPUT/make_ryf/.git/config:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/config
+  hashes:
+    binhash: 32ba9afcc7c19babcb8e23ac58a50942
+    md5: 1a9d093553b1c35f1c0cd0c59d2d6e99
+work/INPUT/make_ryf/.git/description:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/description
+  hashes:
+    binhash: 7ba4bb53d677d14342ad74ab446ba089
+    md5: a0a7c3fff21f2aea3cfa1d0316dd816c
+work/INPUT/make_ryf/.git/hooks/applypatch-msg.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/hooks/applypatch-msg.sample
+  hashes:
+    binhash: 3b216895efccc7547aea2ae4dc166b6e
+    md5: ce562e08d8098926a3862fc6e7905199
+work/INPUT/make_ryf/.git/hooks/commit-msg.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/hooks/commit-msg.sample
+  hashes:
+    binhash: f948c58eec19029dceb9ed75b62a4392
+    md5: 579a3c1e12a1e74a98169175fb913012
+work/INPUT/make_ryf/.git/hooks/fsmonitor-watchman.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/hooks/fsmonitor-watchman.sample
+  hashes:
+    binhash: 73fcd833d7c378d44bb840f5b96aa5c9
+    md5: ecbb0cb5ffb7d773cd5b2407b210cc3b
+work/INPUT/make_ryf/.git/hooks/post-update.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/hooks/post-update.sample
+  hashes:
+    binhash: b5e25cc894ffc74a37de1ecdd0f7a0e7
+    md5: 2b7ea5cee3c49ff53d41e00785eb974c
+work/INPUT/make_ryf/.git/hooks/pre-applypatch.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/hooks/pre-applypatch.sample
+  hashes:
+    binhash: 8f5416624b15c634d82c5231b11878f3
+    md5: 054f9ffb8bfe04a599751cc757226dda
+work/INPUT/make_ryf/.git/hooks/pre-commit.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/hooks/pre-commit.sample
+  hashes:
+    binhash: ee3c7d14c3892e97c9bca369122c99e2
+    md5: e4db8c12ee125a8a085907b757359ef0
+work/INPUT/make_ryf/.git/hooks/pre-push.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/hooks/pre-push.sample
+  hashes:
+    binhash: 10cbe7deb233e1637dc3cbbcae9dfae4
+    md5: 3c5989301dd4b949dfa1f43738a22819
+work/INPUT/make_ryf/.git/hooks/pre-rebase.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/hooks/pre-rebase.sample
+  hashes:
+    binhash: 62646ba3327237e56434a2937d3a62f5
+    md5: 56e45f2bcbc8226d2b4200f7c46371bf
+work/INPUT/make_ryf/.git/hooks/pre-receive.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/hooks/pre-receive.sample
+  hashes:
+    binhash: e2b7b8a65e85a946325eda66581af919
+    md5: 2ad18ec82c20af7b5926ed9cea6aeedd
+work/INPUT/make_ryf/.git/hooks/prepare-commit-msg.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/hooks/prepare-commit-msg.sample
+  hashes:
+    binhash: 5314c8c5f712a74e6c277b2ff0424654
+    md5: 2b5c047bdb474555e1787db32b2d2fc5
+work/INPUT/make_ryf/.git/hooks/update.sample:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/hooks/update.sample
+  hashes:
+    binhash: dfc2c9c3c9b6df59d3e2a959808c97fa
+    md5: 517f14b9239689dff8bda3022ebd9004
+work/INPUT/make_ryf/.git/index:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/index
+  hashes:
+    binhash: 3df8d8da75ee9b13a025a2bf64672753
+    md5: 422ebffde8d88a8dc3657f9f78f1a239
+work/INPUT/make_ryf/.git/info/exclude:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/info/exclude
+  hashes:
+    binhash: 3f129c932e144620dda7cc41c0d29a7e
+    md5: 036208b4a1ab4a235d75c181e685e5a3
+work/INPUT/make_ryf/.git/logs/HEAD:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/logs/HEAD
+  hashes:
+    binhash: b2411f6c7013509c1f9f0ac6d4bc39c9
+    md5: a7d8efd01f14333492f9f69115305239
+work/INPUT/make_ryf/.git/logs/refs/heads/master:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/logs/refs/heads/master
+  hashes:
+    binhash: 83d6be64c4fa84514f7cc30b93ab5047
+    md5: e5e2af9c4413cc0c926715856ab41676
+work/INPUT/make_ryf/.git/logs/refs/heads/v1.4:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/logs/refs/heads/v1.4
+  hashes:
+    binhash: 6c8f4a42c25172c6a51ae17693553adb
+    md5: 3ca821d821cf13e44cd0254b00cc5fab
+work/INPUT/make_ryf/.git/logs/refs/remotes/origin/HEAD:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/logs/refs/remotes/origin/HEAD
+  hashes:
+    binhash: 9d74a8f17fe272c519f62a7d50066a22
+    md5: 7e58b8e299428177c6e675458d1d6cc5
+work/INPUT/make_ryf/.git/logs/refs/remotes/origin/v1.4:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/logs/refs/remotes/origin/v1.4
+  hashes:
+    binhash: 1e6418f84744a6c8e4d5890d33759123
+    md5: 74ede82179bae2d2ac071565cb3862be
+work/INPUT/make_ryf/.git/objects/05/6096c1d1363a92aba5e3b567e28d8f6f019d6a:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/05/6096c1d1363a92aba5e3b567e28d8f6f019d6a
+  hashes:
+    binhash: 1d168fcc29d22dec41fc72342dcfd975
+    md5: 765d575e7a0fe810fc9e39dad72e2605
+work/INPUT/make_ryf/.git/objects/07/1cf138f0b5ae6fb44eb0c8f0269b4860b68ed9:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/07/1cf138f0b5ae6fb44eb0c8f0269b4860b68ed9
+  hashes:
+    binhash: e5b24879336cf02793ba20da48f6e46a
+    md5: dc6f96672cf67190623dd59845fa2546
+work/INPUT/make_ryf/.git/objects/0e/bc4f420caac382f36c87630280712f40254fce:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/0e/bc4f420caac382f36c87630280712f40254fce
+  hashes:
+    binhash: 41dfbd697a96490365efa3e10a5cfc36
+    md5: ba6395a577672e5edcddebc5e27bd696
+work/INPUT/make_ryf/.git/objects/0f/6646600566e4fc694807cd7955448eee8a67a2:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/0f/6646600566e4fc694807cd7955448eee8a67a2
+  hashes:
+    binhash: 529ac47c65b0f76844d8f2c92e2d26f7
+    md5: a034e7b56439c364fe565aabf5a69265
+work/INPUT/make_ryf/.git/objects/2b/6081a96852ad97cdcf715807a7e72108af32d6:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/2b/6081a96852ad97cdcf715807a7e72108af32d6
+  hashes:
+    binhash: 4d8bd02853f416432d43fd701c9c9f80
+    md5: 2ec2965e8c6e2eb9a5059458a6b3cd33
+work/INPUT/make_ryf/.git/objects/40/3ff41c283f110ddfc3275e3a9d6b20ea984979:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/40/3ff41c283f110ddfc3275e3a9d6b20ea984979
+  hashes:
+    binhash: 3890ae8b0bb3198d08668dcae41d7091
+    md5: acc4fb03ebdfc47cb0b0c3d760524982
+work/INPUT/make_ryf/.git/objects/43/0b8fa529f4f00e64be6a40e23b09397d1d9d07:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/43/0b8fa529f4f00e64be6a40e23b09397d1d9d07
+  hashes:
+    binhash: f55f0886f71b20f147ef57e016bb708c
+    md5: 785d069d4724336738214a4b87c32657
+work/INPUT/make_ryf/.git/objects/50/dfb4ba05c4b23f07f6a817c148f37e05ba6ee6:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/50/dfb4ba05c4b23f07f6a817c148f37e05ba6ee6
+  hashes:
+    binhash: 524002ae9dfbe4e38703063d2595f2d8
+    md5: 5ef69a4c8570eb9ff3190608b2989e21
+work/INPUT/make_ryf/.git/objects/56/0472e9f04abcc3e3b5889cf3318f9e5f97b86d:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/56/0472e9f04abcc3e3b5889cf3318f9e5f97b86d
+  hashes:
+    binhash: ad784596e371383e244d94e78b47da08
+    md5: a8ce35896ee7f801e770db44afc3a52d
+work/INPUT/make_ryf/.git/objects/64/e60431df5bea20004eb5d2f31cbe88d69c54e3:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/64/e60431df5bea20004eb5d2f31cbe88d69c54e3
+  hashes:
+    binhash: 9508a4856b1147d1c882f4736e454394
+    md5: 8bfe5ee1f0c775d583b158c889bb9beb
+work/INPUT/make_ryf/.git/objects/81/d801a0b9eb52e2ce03eaa981c67b8e5605b75d:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/81/d801a0b9eb52e2ce03eaa981c67b8e5605b75d
+  hashes:
+    binhash: ae748f41d840124a67ce22d00cd5e3fa
+    md5: 80663129ec7f8205b6729903617f9153
+work/INPUT/make_ryf/.git/objects/8d/83748ce1141857cf92ef03c3ffa63411092a26:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/8d/83748ce1141857cf92ef03c3ffa63411092a26
+  hashes:
+    binhash: 9447706336d56a47e13d03df66a380b4
+    md5: 88b151feded027f42503e9210fe35631
+work/INPUT/make_ryf/.git/objects/90/a21a11854ba82a5726b20649152b14dbc7417a:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/90/a21a11854ba82a5726b20649152b14dbc7417a
+  hashes:
+    binhash: 02c2f83c2ab7076958bb5023aae6e53c
+    md5: 4b88eb1531e7c71cb2130fada33d8aae
+work/INPUT/make_ryf/.git/objects/96/8edae060b7021128442ef0e0bb46db91170fc0:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/96/8edae060b7021128442ef0e0bb46db91170fc0
+  hashes:
+    binhash: 311e70042d7eb763191742d6d4426fea
+    md5: d64e68a497e34bb8fd62e34d7fe0e207
+work/INPUT/make_ryf/.git/objects/a5/372a53c04a1803900200cd482797282eebb932:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/a5/372a53c04a1803900200cd482797282eebb932
+  hashes:
+    binhash: 873afb438c13bcc579d2761919a52ac8
+    md5: 03467eb3328d682457c0402b4926d037
+work/INPUT/make_ryf/.git/objects/c2/afffb8af79ef4bb242f9c948640f50972caf7d:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/c2/afffb8af79ef4bb242f9c948640f50972caf7d
+  hashes:
+    binhash: e7ba75a768e482f173274d553ccdda0a
+    md5: 665bdf5109a80117f53a6508efc20a0d
+work/INPUT/make_ryf/.git/objects/c4/b9772dbad5ac4a4525aa208e5c41e75d85a35a:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/c4/b9772dbad5ac4a4525aa208e5c41e75d85a35a
+  hashes:
+    binhash: b5c36df78f10dfa4dbbdd02fef534d64
+    md5: ea655ea73a2ac9b798bbb625fa7402c6
+work/INPUT/make_ryf/.git/objects/cd/ed1e3e8dea3b9dde61d95abd8c5b5e32b0ece6:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/cd/ed1e3e8dea3b9dde61d95abd8c5b5e32b0ece6
+  hashes:
+    binhash: bb6fc7ae07a042fe2399e8deb29b6ae6
+    md5: c82f36e916191b6acc936179c16b9432
+work/INPUT/make_ryf/.git/objects/d5/41eacae03f3d0d76ad4dd41e25230007019a86:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/d5/41eacae03f3d0d76ad4dd41e25230007019a86
+  hashes:
+    binhash: 958a03810e5baa995695762677e5ef0a
+    md5: d45704b58101a2556a49fbed11d1953f
+work/INPUT/make_ryf/.git/objects/f2/6b62c4ef5faa2f0b9bb0c5425d1c69e4b6c18c:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/f2/6b62c4ef5faa2f0b9bb0c5425d1c69e4b6c18c
+  hashes:
+    binhash: 752f767cbc3ecea4d6047e169854438a
+    md5: 6d9a3140c75ed5cb97c38451ed842762
+work/INPUT/make_ryf/.git/objects/f2/ebd6c1d75f1ed2655f59bbf714ba6ad85e78f2:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/f2/ebd6c1d75f1ed2655f59bbf714ba6ad85e78f2
+  hashes:
+    binhash: d2824ad56dbea5a85e9c76f6f2d62d85
+    md5: a6c97d49df62c477e36ec7f999533d81
+work/INPUT/make_ryf/.git/objects/f5/a2c0cca6397d2d5ea45469197aed7fb61cd7c0:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/f5/a2c0cca6397d2d5ea45469197aed7fb61cd7c0
+  hashes:
+    binhash: 4653e5bd73264e0bc32cbf242028ac27
+    md5: d34c27b6a2d6753baadbe0b7a50590f5
+work/INPUT/make_ryf/.git/objects/fa/d37f503a2d1b196181c5ca0c4007523ba30724:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/objects/fa/d37f503a2d1b196181c5ca0c4007523ba30724
+  hashes:
+    binhash: 7e76497d02ccd56e9be9b73a163e80a1
+    md5: ccebef4e2fc0db0164d0c0f377bde714
+work/INPUT/make_ryf/.git/packed-refs:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/packed-refs
+  hashes:
+    binhash: 52c166e686dd9bb15a935dc5d60944cd
+    md5: 2523a063a2150d7411e37a6eb762647e
+work/INPUT/make_ryf/.git/refs/heads/master:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/refs/heads/master
+  hashes:
+    binhash: 754d988f84a18bb5422b2ccf6a992982
+    md5: 7aaf068f4ff3838020d7b1be8dd8dc34
+work/INPUT/make_ryf/.git/refs/heads/v1.4:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/refs/heads/v1.4
+  hashes:
+    binhash: a28aeec89d1564e8da57e6a81348f8d0
+    md5: f993b8d9186ce1fed2171845dcb203d0
+work/INPUT/make_ryf/.git/refs/remotes/origin/HEAD:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/refs/remotes/origin/HEAD
+  hashes:
+    binhash: 27a02414bfb26d19a15fc5f45f1351d5
+    md5: 73a00957034783b7b5c8294c54cd3e12
+work/INPUT/make_ryf/.git/refs/remotes/origin/v1.4:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/.git/refs/remotes/origin/v1.4
+  hashes:
+    binhash: 0031123e5090964640bf57c84eabc6d7
+    md5: f993b8d9186ce1fed2171845dcb203d0
+work/INPUT/make_ryf/README.md:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/README.md
+  hashes:
+    binhash: baf6d43adf3e2b159cdd302f0da1d01f
+    md5: e871fe9d8c7c439b8a917c40f9d629dd
+work/INPUT/make_ryf/make_ryf.py:
+  fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_ryf/make_ryf.py
+  hashes:
+    binhash: 9fbb6a9f6bec50ccb2afafecae9a5ff7
+    md5: c5ef2aeff9516ec76c80e76aef08d352
+work/INPUT/mask_table.1053.90x45.2997:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.1053.90x45.2997
+  hashes:
+    binhash: d140191c5abfe5b1599e8fc524db07e0
+    md5: 268b048769fce43adee71f0b9c53dd74
+work/INPUT/mask_table.1309.90x54.3551:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.1309.90x54.3551
+  hashes:
+    binhash: 974fc7515b3021bad3da6923bdc68e6e
+    md5: 66669b2d98cd5fe91832fef3d934c30c
+work/INPUT/mask_table.1402.72x72.3782:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.1402.72x72.3782
+  hashes:
+    binhash: d3cc82239646eb756a4240774e9af891
+    md5: bfa3f69cf3197b2efb424cd4f2184f43
+work/INPUT/mask_table.1809.90x72.4671:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.1809.90x72.4671
+  hashes:
+    binhash: 551b43ff8885b5f3774ebb303a6f00da
+    md5: 4e648367216f0e1be45550514912becd
+work/INPUT/mask_table.2309.90x90.5791:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.2309.90x90.5791
+  hashes:
+    binhash: 53e7c9436243496b9be0ce62b41d3183
+    md5: 8d3312c3797a09e21665e1e273e551eb
+work/INPUT/mask_table.242.32x36.910:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.242.32x36.910
+  hashes:
+    binhash: 9354ec75a6ff266c6b98f4c8a802f487
+    md5: bb590fa0ef60adcfc6dd58ce50e35f31
+work/INPUT/mask_table.2428.90x95.6122:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.2428.90x95.6122
+  hashes:
+    binhash: 1f98ab97c2817cd7f557f3baa6b36f5d
+    md5: 06a2f60f2b90c34e46cf9d6010641d40
+work/INPUT/mask_table.2570.90x100.6430:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.2570.90x100.6430
+  hashes:
+    binhash: 65b2c5d8bcfb2148a983cecea75addb1
+    md5: ea0d9d86de8349d356110f11bd84b190
+work/INPUT/mask_table.274.36x36.1022:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.274.36x36.1022
+  hashes:
+    binhash: 9692ffe6d202e0dd46e18047971ba627
+    md5: 77d9bc48d1cecf3a99b10f31d8ec7c34
+work/INPUT/mask_table.315.32x45.1125:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.315.32x45.1125
+  hashes:
+    binhash: 71108ebc31359b022927ba3dd0334618
+    md5: 747cf958fd2f849a0f88e0ca291e07a1
+work/INPUT/mask_table.33.16x18.255:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.33.16x18.255
+  hashes:
+    binhash: 9eb985d97421beb3483e12392f7be17e
+    md5: 1186fee0dac930e8ac43adcbbeb4efdd
+work/INPUT/mask_table.3785.90x144.9175:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.3785.90x144.9175
+  hashes:
+    binhash: a7b69c822df324dc6b26521b57a0dc87
+    md5: 98daa1ae0cebf4fe9d79d5cd77aa008d
+work/INPUT/mask_table.548.32x72.1756:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.548.32x72.1756
+  hashes:
+    binhash: c7e6da12d1988721ed62254a6943243d
+    md5: db3add3fd8e4cebdf7657c4b1f162ffa
+work/INPUT/mask_table.622.36x72.1970:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.622.36x72.1970
+  hashes:
+    binhash: e29bda14427bacaa7f230b66b0e4b838
+    md5: 95155402e4719c6c517d73bdc474264d
+work/INPUT/mask_table.808.45x72.2440:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.808.45x72.2440
+  hashes:
+    binhash: e335f544b44dd56351d4d7ddffdf458c
+    md5: 75bd211468c0cb598bfe9f4d425e70cd
+work/INPUT/mask_table.96.32x18.480:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.96.32x18.480
+  hashes:
+    binhash: c10a84b6bd659ea57a2c240265d38734
+    md5: d5f7bcdd14090f631f410f2d5208f563
+work/INPUT/ocean_hgrid.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/ocean_hgrid.nc
+  hashes:
+    binhash: 92adc50b047bf5ffa933381ea007fecb
+    md5: fa8711331a6e12c89346c0cdf833a061
+work/INPUT/ocean_mask.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/ocean_mask.nc
+  hashes:
+    binhash: 205e2ba9e13ec6567c30bc31602dddb5
+    md5: 98064d943b3fa9c2c2692cce9b1d479f
+work/INPUT/ocean_mosaic.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/ocean_mosaic.nc
+  hashes:
+    binhash: 5cb4229d84ba083e56221174116a0599
+    md5: 9e78821410fd496ea81fd3b8de0b14ad
+work/INPUT/ocean_topog.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/ocean_topog.nc
+  hashes:
+    binhash: 5b5765c4d89b55438920a3fe6ae9615a
+    md5: e46d378b4261992d5e43af30a7bf1a40
+work/INPUT/pickle.regrid_runoff_A:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/pickle.regrid_runoff_A
+  hashes:
+    binhash: 97629701edf836d106c27d1c0a5d7c74
+    md5: 8304f1ed742a9c29ff3c32a4d83a2655
+work/INPUT/prra.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/prra.nc
+  hashes:
+    binhash: e7a2eb4c5d04bf69513c4c2adcbdde82
+    md5: dfe7a05442ee9f98e1fc06ac013db10b
+work/INPUT/regrid_runoff.py:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/regrid_runoff.py
+  hashes:
+    binhash: e3b8e72d40909e7386b1c68e6c778214
+    md5: 80a1a9074062557be4875201e89d7e93
+work/INPUT/salt_restore_JRA.1440x1080.v20190706.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/salt_restore_JRA.1440x1080.v20190706.nc
+  hashes:
+    binhash: 2b9f10bb27e145117b8af24e6cdd2b22
+    md5: dc041a509fbfd3287578c715637ed7f5
+work/INPUT/seawifs-clim-1997-2010.1440x1080.v20180328.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/seawifs-clim-1997-2010.1440x1080.v20180328.nc
+  hashes:
+    binhash: 353f21d1b98ecf59102612754aac33d6
+    md5: 8abce626bb654bde23ccc1664bc77608
+work/INPUT/test/Makefile:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/test/Makefile
+  hashes:
+    binhash: 4b96a2a2d6547dc4d03795436e50e530
+    md5: 609bd8c774a3560f2e4d0e68c88ac8cf
+work/INPUT/test/check.md5:
+  fullpath: /g/data/ik11/inputs/mom6/regrid_runoff/test/check.md5
+  hashes:
+    binhash: 2610a6f6ca431a9ab1b1905288deb918
+    md5: 465998efe8ed8a7d7f9867897b903d40
+work/INPUT/tidal_amplitude.v20140616.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/tidal_amplitude.v20140616.nc
+  hashes:
+    binhash: 57aca85af1769472102b01665566db7f
+    md5: 27b75fed981c011654a3512bcc094100
+work/INPUT/topog.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/topog.nc
+  hashes:
+    binhash: 2cceaa26c5bb0403cb3d0ffed6fa904f
+    md5: e46d378b4261992d5e43af30a7bf1a40
+work/INPUT/woa13_decav_ptemp_monthly_fulldepth_01.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/woa13_decav_ptemp_monthly_fulldepth_01.nc
+  hashes:
+    binhash: de8e163d40654b4cc57cb22e38bbc9cf
+    md5: 8d9b58744a9481c2ca611d66aa1c05e4
+work/INPUT/woa13_decav_s_monthly_fulldepth_01.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/woa13_decav_s_monthly_fulldepth_01.nc
+  hashes:
+    binhash: ea1f34f4d693542aea550e5b303d3d76
+    md5: 5fbe1570da47c731d3be16d84a7e654d
