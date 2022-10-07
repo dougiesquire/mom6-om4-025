@@ -1,0 +1,548 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/.datasets/CORE.tgz:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE.tgz
+  hashes:
+    binhash: 9c98de3e643e0e7277de992c6717f4a6
+    md5: 8dffa1a9118e4d71a7c43905a2880f94
+work/INPUT/.datasets/CORE/NYF_v2.0/ncar_precip.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/ncar_precip.clim.nc
+  hashes:
+    binhash: 92b7815261cf079ed00d726356aea25c
+    md5: 71235d8dac21cc62836c35c0c068923c
+work/INPUT/.datasets/CORE/NYF_v2.0/ncar_rad.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/ncar_rad.clim.nc
+  hashes:
+    binhash: ca01ee7d89521ee8b4c2496b55fc098d
+    md5: 0964b91c2b9f19295a23c2e00ab6ef0c
+work/INPUT/.datasets/CORE/NYF_v2.0/q_10_mod.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/q_10_mod.clim.nc
+  hashes:
+    binhash: af78a885fe352ffde6e396ee1c37dac7
+    md5: 09b6de3fd2555aa212fdbe1f2059c138
+work/INPUT/.datasets/CORE/NYF_v2.0/slp.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/slp.clim.nc
+  hashes:
+    binhash: c1ce6ffad796372e4f76c57422d26a27
+    md5: 95232a02719417ca08c808eba1de26c2
+work/INPUT/.datasets/CORE/NYF_v2.0/t_10_mod.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/t_10_mod.clim.nc
+  hashes:
+    binhash: 5a2fcbe65729d75a78543579a705cbef
+    md5: 7e6fef9eb022b5f51e6e85cc78848db2
+work/INPUT/.datasets/CORE/NYF_v2.0/u_10_mod.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/u_10_mod.clim.nc
+  hashes:
+    binhash: 7fd47558d3ff95c8a78d3bac3c75f2ec
+    md5: 8b5b0c55c0a9e455be6fb8ee8d11c78a
+work/INPUT/.datasets/CORE/NYF_v2.0/v_10_mod.clim.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/CORE/NYF_v2.0/v_10_mod.clim.nc
+  hashes:
+    binhash: c929aa9758cffbefe248b1deb2795281
+    md5: 6f4c414b7d7259bfe599b25b3b8089c0
+work/INPUT/.datasets/OM4_025.tgz:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025.tgz
+  hashes:
+    binhash: 48364048fc6416a8235096254a20314a
+    md5: a919ce7ef1639e50d8a56458cdf9513d
+? work/INPUT/.datasets/OM4_025/INPUT.JRA.v2019.07.04/friver_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_19580101-19581231.padded.compressed.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT.JRA.v2019.07.04/friver_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_19580101-19581231.padded.compressed.nc
+  hashes:
+    binhash: dec15b73c8aab62974afe22a2e1bb2d8
+    md5: 84111c7c665988bb7c7b4b02068cff5f
+work/INPUT/.datasets/OM4_025/INPUT.JRA.v2019.07.04/geothermal_davies2013_v1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT.JRA.v2019.07.04/geothermal_davies2013_v1.nc
+  hashes:
+    binhash: ed330cc1cc1b51f948e1fc2f3a3e1afd
+    md5: b52b54b762fd8351100248957e20e5fd
+? work/INPUT/.datasets/OM4_025/INPUT.JRA.v2019.07.04/licalvf_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_19580101-19581231.padded.compressed.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT.JRA.v2019.07.04/licalvf_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_19580101-19581231.padded.compressed.nc
+  hashes:
+    binhash: 4ccded2296521e4734429dd4f273964e
+    md5: cf3952b8ae1fa94b80db4d41d5d6c4e0
+work/INPUT/.datasets/OM4_025/INPUT.JRA.v2019.07.04/salt_restore_JRA.1440x1080.v20190706.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT.JRA.v2019.07.04/salt_restore_JRA.1440x1080.v20190706.nc
+  hashes:
+    binhash: 5934f1cc3544761437d761ca87849488
+    md5: dc041a509fbfd3287578c715637ed7f5
+work/INPUT/.datasets/OM4_025/INPUT.JRA.v2019.07.04/seawifs-clim-1997-2010.1440x1080.v20180328.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT.JRA.v2019.07.04/seawifs-clim-1997-2010.1440x1080.v20180328.nc
+  hashes:
+    binhash: d502a07852071857384a551017557758
+    md5: 8abce626bb654bde23ccc1664bc77608
+work/INPUT/.datasets/OM4_025/INPUT.JRA.v2019.07.04/tidal_amplitude.v20140616.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT.JRA.v2019.07.04/tidal_amplitude.v20140616.nc
+  hashes:
+    binhash: 6d30ba1e682dedb53cceae00c7a9974a
+    md5: 27b75fed981c011654a3512bcc094100
+work/INPUT/.datasets/OM4_025/INPUT/geothermal_davies2013_v1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT/geothermal_davies2013_v1.nc
+  hashes:
+    binhash: b2642c58437cd2cc3090c39ff7c6de3a
+    md5: b52b54b762fd8351100248957e20e5fd
+work/INPUT/.datasets/OM4_025/INPUT/runoff.daitren.clim.1440x1080.v20180328.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT/runoff.daitren.clim.1440x1080.v20180328.nc
+  hashes:
+    binhash: 4f72b477b4ac06c0080a7cbb77cd7ee0
+    md5: 52863401931b15385b73005893ebef6d
+work/INPUT/.datasets/OM4_025/INPUT/runoff.daitren.iaf.1440x1080.v20180328.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT/runoff.daitren.iaf.1440x1080.v20180328.nc
+  hashes:
+    binhash: 82f94c0d39a604d3242b70bc1781cbde
+    md5: bcb3b0d5e076b559e6e83bcf8474b67d
+work/INPUT/.datasets/OM4_025/INPUT/salt_restore_PHC2.1440x1080.v20180405.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT/salt_restore_PHC2.1440x1080.v20180405.nc
+  hashes:
+    binhash: 29e33f59779dab69740c7a8faf39b68e
+    md5: 80bc59b1185aa7703704a07324eba27d
+work/INPUT/.datasets/OM4_025/INPUT/seawifs-clim-1997-2010.1440x1080.v20180328.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT/seawifs-clim-1997-2010.1440x1080.v20180328.nc
+  hashes:
+    binhash: 2d5a2c8489a0587d0a5c5ab56b3a5a73
+    md5: 8abce626bb654bde23ccc1664bc77608
+work/INPUT/.datasets/OM4_025/INPUT/tidal_amplitude.v20140616.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/INPUT/tidal_amplitude.v20140616.nc
+  hashes:
+    binhash: 885763483baeba74f3a39d714adb0677
+    md5: 27b75fed981c011654a3512bcc094100
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/atmos_mosaic_tile1Xland_mosaic_tile1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/atmos_mosaic_tile1Xland_mosaic_tile1.nc
+  hashes:
+    binhash: 624b3d53952e6855e14a0d221098c171
+    md5: 93d29d09cee80224bc4dc6e815a5a482
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/atmos_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 91e422c82cbd174e207db355d55a805e
+    md5: 5cfd7c92ab4b432a3a0690139b324dd8
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/grid_spec.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/grid_spec.nc
+  hashes:
+    binhash: f30146b3e7e2a122ea13813db342e38e
+    md5: 655dafc9631676b90144c68c4d33cbdb
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/land_mask.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/land_mask.nc
+  hashes:
+    binhash: c917cd4d28d6cb37cabf4c65f07647cd
+    md5: 55b6c38a1345895545d04b92b23e364d
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/land_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/land_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 7f70c503b8d7b0a315a269449ec5f1b1
+    md5: d80ae5cf312b497d0b6de56741ca5f93
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1053.90x45.2997:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1053.90x45.2997
+  hashes:
+    binhash: 8c38c6989bd816f6d8928b8288f42610
+    md5: 268b048769fce43adee71f0b9c53dd74
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1309.90x54.3551:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1309.90x54.3551
+  hashes:
+    binhash: 9091eef3f1d648c9842a89e199704b61
+    md5: 66669b2d98cd5fe91832fef3d934c30c
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1402.72x72.3782:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1402.72x72.3782
+  hashes:
+    binhash: 70db7647ed0bbb1bd9696bcb6b3ce6e0
+    md5: bfa3f69cf3197b2efb424cd4f2184f43
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1809.90x72.4671:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.1809.90x72.4671
+  hashes:
+    binhash: 4346abe55ecfd6cc719b59b9833e4fd3
+    md5: 4e648367216f0e1be45550514912becd
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.2309.90x90.5791:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.2309.90x90.5791
+  hashes:
+    binhash: a100d98468e5a76328064265de2961e8
+    md5: 8d3312c3797a09e21665e1e273e551eb
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.242.32x36.910:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.242.32x36.910
+  hashes:
+    binhash: 1fb52115e1d065681366eb3e48d74083
+    md5: bb590fa0ef60adcfc6dd58ce50e35f31
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.2428.90x95.6122:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.2428.90x95.6122
+  hashes:
+    binhash: 6f39520b3de7cc66ab59d0fe11e33f0a
+    md5: 06a2f60f2b90c34e46cf9d6010641d40
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.2570.90x100.6430:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.2570.90x100.6430
+  hashes:
+    binhash: 2b07ba2274208a9697b35ad966833791
+    md5: ea0d9d86de8349d356110f11bd84b190
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.274.36x36.1022:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.274.36x36.1022
+  hashes:
+    binhash: c60ca5fb9caee673cd50a4dd060eb47a
+    md5: 77d9bc48d1cecf3a99b10f31d8ec7c34
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.315.32x45.1125:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.315.32x45.1125
+  hashes:
+    binhash: 2d44e42808f54ae607817fe4749bfb44
+    md5: 747cf958fd2f849a0f88e0ca291e07a1
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.33.16x18.255:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.33.16x18.255
+  hashes:
+    binhash: 3036648629954475177d2eef507cfb07
+    md5: 1186fee0dac930e8ac43adcbbeb4efdd
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.3785.90x144.9175:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.3785.90x144.9175
+  hashes:
+    binhash: 4a0618f4b8a27cb7de0dfe7efa728361
+    md5: 98daa1ae0cebf4fe9d79d5cd77aa008d
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.548.32x72.1756:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.548.32x72.1756
+  hashes:
+    binhash: f5efe00c8908be0258638e6ecc7bcef4
+    md5: db3add3fd8e4cebdf7657c4b1f162ffa
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.622.36x72.1970:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.622.36x72.1970
+  hashes:
+    binhash: 47a1e9f80e382ab1ad7ad2723cf5ffea
+    md5: 95155402e4719c6c517d73bdc474264d
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.808.45x72.2440:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.808.45x72.2440
+  hashes:
+    binhash: 418f7b6bad447da5c533fee7141c36e3
+    md5: 75bd211468c0cb598bfe9f4d425e70cd
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.96.32x18.480:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/mask_table.96.32x18.480
+  hashes:
+    binhash: 8aab8622182f0016dd5fcd61923f635c
+    md5: d5f7bcdd14090f631f410f2d5208f563
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_hgrid.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_hgrid.nc
+  hashes:
+    binhash: 8a2b320b4497d3fe2a658e5aef5d043b
+    md5: fa8711331a6e12c89346c0cdf833a061
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_mask.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_mask.nc
+  hashes:
+    binhash: d3527b78369e2e53ed8745ebcd5b6ce8
+    md5: 98064d943b3fa9c2c2692cce9b1d479f
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_mosaic.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_mosaic.nc
+  hashes:
+    binhash: d4c221f269aa2def2a630945bdb963fd
+    md5: 9e78821410fd496ea81fd3b8de0b14ad
+work/INPUT/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_topog.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/OM4_025/mosaic.v20170622.unpacked/ocean_topog.nc
+  hashes:
+    binhash: c71344c5863fe0749b2d53a133bbf8be
+    md5: e46d378b4261992d5e43af30a7bf1a40
+work/INPUT/.datasets/obs.tgz:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/obs.tgz
+  hashes:
+    binhash: 48bfad6dbf7292a73e41a0b9aaedd154
+    md5: d89e55a9608904ff77d1527da333fd1d
+work/INPUT/.datasets/obs.woa13.tgz:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/obs.woa13.tgz
+  hashes:
+    binhash: 3ff9a043dc8d7ffd908005733043a3b5
+    md5: 3e8f9c3d2c35a1037b5fe4ee724387d1
+work/INPUT/.datasets/obs/NOAA-NODC/WOA13/v2a/woa13_decav_ptemp_monthly_fulldepth_01.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/obs/NOAA-NODC/WOA13/v2a/woa13_decav_ptemp_monthly_fulldepth_01.nc
+  hashes:
+    binhash: f50e2b4d589b7995daef53a38bcd7782
+    md5: 8d9b58744a9481c2ca611d66aa1c05e4
+work/INPUT/.datasets/obs/NOAA-NODC/WOA13/v2a/woa13_decav_s_monthly_fulldepth_01.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/obs/NOAA-NODC/WOA13/v2a/woa13_decav_s_monthly_fulldepth_01.nc
+  hashes:
+    binhash: c71b59034760a03c7a54862376a3bf5e
+    md5: 5fbe1570da47c731d3be16d84a7e654d
+work/INPUT/.datasets/obs/WOA05_pottemp_salt.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/obs/WOA05_pottemp_salt.nc
+  hashes:
+    binhash: c8f35182440a9634dc4110ca7de829a9
+    md5: 46803f1e1595e29ea527086438a58391
+work/INPUT/.datasets/reanalysis.tgz:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis.tgz
+  hashes:
+    binhash: e8be23ef54601ed2f6e8569e0001790d
+    md5: 676799703ee1c1c31b2643a382bb8664
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/huss_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/huss_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+  hashes:
+    binhash: d6d9e2dce1931c1cb340a22566b50765
+    md5: a4d99959325dfeac079e9c061eb8413b
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/prra_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/prra_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+  hashes:
+    binhash: 0d3984b34527c48859caf81f9ca4d1cc
+    md5: dfe7a05442ee9f98e1fc06ac013db10b
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/prsn_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/prsn_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+  hashes:
+    binhash: 730bc8106a67bf9bfe3783a2e248b6f3
+    md5: e4f4faa264b690c93b14d475ef145ef9
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/psl_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/psl_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+  hashes:
+    binhash: db03eed3c45d8e2ef2c096fcceeb12fc
+    md5: 82be805b742346b2d276976f9f4c310c
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/rlds_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/rlds_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+  hashes:
+    binhash: 3b62ea397f63997f5e451c3d0487b9bf
+    md5: 158bef46d7434b4f6eb8124830f51695
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/rsds_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/rsds_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010130-195812312230.padded.nc
+  hashes:
+    binhash: ded00da06f77574fbedc17e080a339e9
+    md5: d24686ca0e326629281e34e878b8d1d1
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/tas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/tas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+  hashes:
+    binhash: 5b2a887b029854e415d354d554426cce
+    md5: 9b644f9e9447626b6d4480ff83290da5
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/uas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/uas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+  hashes:
+    binhash: 2e031c09b30d2578c0e6b8e0712c246a
+    md5: 07118cd22abefb9e7d265b3a993e9df5
+? work/INPUT/.datasets/reanalysis/JRA55-do/v1.4.0/padded/vas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+: fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/.datasets/reanalysis/JRA55-do/v1.4.0/padded/vas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.padded.nc
+  hashes:
+    binhash: fc1c5a414b4e37eab4a20d814e7d6e85
+    md5: 45a7077efe20f728d1d659968c4d4ac5
+work/INPUT/All_edits.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/All_edits.nc
+  hashes:
+    binhash: 9393602c633e6f765c5fe51413c6d55f
+    md5: d10381a878ba32b7813253b52b76f3da
+work/INPUT/JRA_friver.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_friver.nc
+  hashes:
+    binhash: 518aa38b5e0cd96017b4228f5558081f
+    md5: 84111c7c665988bb7c7b4b02068cff5f
+work/INPUT/JRA_huss.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_huss.nc
+  hashes:
+    binhash: e0129ff43839aeb93f8791f00e0af99d
+    md5: a4d99959325dfeac079e9c061eb8413b
+work/INPUT/JRA_licalvf.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_licalvf.nc
+  hashes:
+    binhash: 9ba9b9399d72637ed33de2f75e7f2606
+    md5: cf3952b8ae1fa94b80db4d41d5d6c4e0
+work/INPUT/JRA_prra.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_prra.nc
+  hashes:
+    binhash: 3fcde135d7efd90ef93aa97e3adeae90
+    md5: dfe7a05442ee9f98e1fc06ac013db10b
+work/INPUT/JRA_prsn.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_prsn.nc
+  hashes:
+    binhash: 8e58df557f7b8fb3f35cf05328f8eb3a
+    md5: e4f4faa264b690c93b14d475ef145ef9
+work/INPUT/JRA_psl.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_psl.nc
+  hashes:
+    binhash: 4ddd23680a0896b16b08d5fcdae0a4ac
+    md5: 82be805b742346b2d276976f9f4c310c
+work/INPUT/JRA_rlds.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_rlds.nc
+  hashes:
+    binhash: 4f2bd6b04e376cd47b1177e86481307c
+    md5: 158bef46d7434b4f6eb8124830f51695
+work/INPUT/JRA_rsds.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_rsds.nc
+  hashes:
+    binhash: 3d83fd194eb1628120bc229531f16001
+    md5: d24686ca0e326629281e34e878b8d1d1
+work/INPUT/JRA_tas.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_tas.nc
+  hashes:
+    binhash: 0cb4f30bb25415a8c8d3e5cc2f0374b3
+    md5: 9b644f9e9447626b6d4480ff83290da5
+work/INPUT/JRA_uas.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_uas.nc
+  hashes:
+    binhash: 07a5af9797db7fcab2c55f683a08ae0a
+    md5: 07118cd22abefb9e7d265b3a993e9df5
+work/INPUT/JRA_vas.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/JRA_vas.nc
+  hashes:
+    binhash: 4de91210878c56bb611b16af0929353d
+    md5: 45a7077efe20f728d1d659968c4d4ac5
+work/INPUT/MOM_channels_global_025:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/MOM_channels_global_025
+  hashes:
+    binhash: 060f86f854d33775c46ec7adf3f3fa10
+    md5: 1370f6237715504e67d36784f0d6f47b
+work/INPUT/atmos_mosaic_tile1Xland_mosaic_tile1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/atmos_mosaic_tile1Xland_mosaic_tile1.nc
+  hashes:
+    binhash: 5580ee858bb90e236774b88be1634aca
+    md5: 93d29d09cee80224bc4dc6e815a5a482
+work/INPUT/atmos_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/atmos_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 115649811bd1d857b279253a57407fa6
+    md5: 5cfd7c92ab4b432a3a0690139b324dd8
+work/INPUT/geothermal_davies2013_v1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/geothermal_davies2013_v1.nc
+  hashes:
+    binhash: 66271a3e6e0ae26a10e23d6f1f2ccba8
+    md5: b52b54b762fd8351100248957e20e5fd
+work/INPUT/grid_spec.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/grid_spec.nc
+  hashes:
+    binhash: 4a439f104254af175fb4d8573ca50a0d
+    md5: 655dafc9631676b90144c68c4d33cbdb
+work/INPUT/hycom1_75_800m.cdl:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/hycom1_75_800m.cdl
+  hashes:
+    binhash: 6413595ff2a9496d46c422f5edd8403e
+    md5: 8cc2006428e52f3fdc697e384376eb2b
+work/INPUT/hycom1_75_800m.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/hycom1_75_800m.nc
+  hashes:
+    binhash: 96a0cfd380fa8b29618dc655bf0fdff9
+    md5: 023b23f6b55e6f3b3de6778e608d0d3d
+work/INPUT/land_mask.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/land_mask.nc
+  hashes:
+    binhash: 843f1241bc209b680a8fc9fa7a3cf80d
+    md5: 55b6c38a1345895545d04b92b23e364d
+work/INPUT/land_mosaic_tile1Xocean_mosaic_tile1.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/land_mosaic_tile1Xocean_mosaic_tile1.nc
+  hashes:
+    binhash: 322bbf1dd720f5ab4df324d9a1b39ce1
+    md5: d80ae5cf312b497d0b6de56741ca5f93
+work/INPUT/mask_table.1053.90x45.2997:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.1053.90x45.2997
+  hashes:
+    binhash: d140191c5abfe5b1599e8fc524db07e0
+    md5: 268b048769fce43adee71f0b9c53dd74
+work/INPUT/mask_table.1309.90x54.3551:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.1309.90x54.3551
+  hashes:
+    binhash: 974fc7515b3021bad3da6923bdc68e6e
+    md5: 66669b2d98cd5fe91832fef3d934c30c
+work/INPUT/mask_table.1402.72x72.3782:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.1402.72x72.3782
+  hashes:
+    binhash: d3cc82239646eb756a4240774e9af891
+    md5: bfa3f69cf3197b2efb424cd4f2184f43
+work/INPUT/mask_table.1809.90x72.4671:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.1809.90x72.4671
+  hashes:
+    binhash: 551b43ff8885b5f3774ebb303a6f00da
+    md5: 4e648367216f0e1be45550514912becd
+work/INPUT/mask_table.2309.90x90.5791:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.2309.90x90.5791
+  hashes:
+    binhash: 53e7c9436243496b9be0ce62b41d3183
+    md5: 8d3312c3797a09e21665e1e273e551eb
+work/INPUT/mask_table.242.32x36.910:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.242.32x36.910
+  hashes:
+    binhash: 9354ec75a6ff266c6b98f4c8a802f487
+    md5: bb590fa0ef60adcfc6dd58ce50e35f31
+work/INPUT/mask_table.2428.90x95.6122:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.2428.90x95.6122
+  hashes:
+    binhash: 1f98ab97c2817cd7f557f3baa6b36f5d
+    md5: 06a2f60f2b90c34e46cf9d6010641d40
+work/INPUT/mask_table.2570.90x100.6430:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.2570.90x100.6430
+  hashes:
+    binhash: 65b2c5d8bcfb2148a983cecea75addb1
+    md5: ea0d9d86de8349d356110f11bd84b190
+work/INPUT/mask_table.274.36x36.1022:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.274.36x36.1022
+  hashes:
+    binhash: 9692ffe6d202e0dd46e18047971ba627
+    md5: 77d9bc48d1cecf3a99b10f31d8ec7c34
+work/INPUT/mask_table.315.32x45.1125:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.315.32x45.1125
+  hashes:
+    binhash: 71108ebc31359b022927ba3dd0334618
+    md5: 747cf958fd2f849a0f88e0ca291e07a1
+work/INPUT/mask_table.33.16x18.255:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.33.16x18.255
+  hashes:
+    binhash: 9eb985d97421beb3483e12392f7be17e
+    md5: 1186fee0dac930e8ac43adcbbeb4efdd
+work/INPUT/mask_table.3785.90x144.9175:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.3785.90x144.9175
+  hashes:
+    binhash: a7b69c822df324dc6b26521b57a0dc87
+    md5: 98daa1ae0cebf4fe9d79d5cd77aa008d
+work/INPUT/mask_table.548.32x72.1756:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.548.32x72.1756
+  hashes:
+    binhash: c7e6da12d1988721ed62254a6943243d
+    md5: db3add3fd8e4cebdf7657c4b1f162ffa
+work/INPUT/mask_table.622.36x72.1970:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.622.36x72.1970
+  hashes:
+    binhash: e29bda14427bacaa7f230b66b0e4b838
+    md5: 95155402e4719c6c517d73bdc474264d
+work/INPUT/mask_table.808.45x72.2440:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.808.45x72.2440
+  hashes:
+    binhash: e335f544b44dd56351d4d7ddffdf458c
+    md5: 75bd211468c0cb598bfe9f4d425e70cd
+work/INPUT/mask_table.96.32x18.480:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/mask_table.96.32x18.480
+  hashes:
+    binhash: c10a84b6bd659ea57a2c240265d38734
+    md5: d5f7bcdd14090f631f410f2d5208f563
+work/INPUT/ocean_hgrid.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/ocean_hgrid.nc
+  hashes:
+    binhash: 92adc50b047bf5ffa933381ea007fecb
+    md5: fa8711331a6e12c89346c0cdf833a061
+work/INPUT/ocean_mask.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/ocean_mask.nc
+  hashes:
+    binhash: 205e2ba9e13ec6567c30bc31602dddb5
+    md5: 98064d943b3fa9c2c2692cce9b1d479f
+work/INPUT/ocean_mosaic.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/ocean_mosaic.nc
+  hashes:
+    binhash: 5cb4229d84ba083e56221174116a0599
+    md5: 9e78821410fd496ea81fd3b8de0b14ad
+work/INPUT/ocean_topog.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/ocean_topog.nc
+  hashes:
+    binhash: 5b5765c4d89b55438920a3fe6ae9615a
+    md5: e46d378b4261992d5e43af30a7bf1a40
+work/INPUT/prra.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/prra.nc
+  hashes:
+    binhash: e7a2eb4c5d04bf69513c4c2adcbdde82
+    md5: dfe7a05442ee9f98e1fc06ac013db10b
+work/INPUT/salt_restore_JRA.1440x1080.v20190706.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/salt_restore_JRA.1440x1080.v20190706.nc
+  hashes:
+    binhash: 2b9f10bb27e145117b8af24e6cdd2b22
+    md5: dc041a509fbfd3287578c715637ed7f5
+work/INPUT/seawifs-clim-1997-2010.1440x1080.v20180328.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/seawifs-clim-1997-2010.1440x1080.v20180328.nc
+  hashes:
+    binhash: 353f21d1b98ecf59102612754aac33d6
+    md5: 8abce626bb654bde23ccc1664bc77608
+work/INPUT/tidal_amplitude.v20140616.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/tidal_amplitude.v20140616.nc
+  hashes:
+    binhash: 57aca85af1769472102b01665566db7f
+    md5: 27b75fed981c011654a3512bcc094100
+work/INPUT/topog.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/topog.nc
+  hashes:
+    binhash: 2cceaa26c5bb0403cb3d0ffed6fa904f
+    md5: e46d378b4261992d5e43af30a7bf1a40
+work/INPUT/woa13_decav_ptemp_monthly_fulldepth_01.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/woa13_decav_ptemp_monthly_fulldepth_01.nc
+  hashes:
+    binhash: de8e163d40654b4cc57cb22e38bbc9cf
+    md5: 8d9b58744a9481c2ca611d66aa1c05e4
+work/INPUT/woa13_decav_s_monthly_fulldepth_01.nc:
+  fullpath: /g/data/ik11/inputs/mom6/OM4_025.JRA/woa13_decav_s_monthly_fulldepth_01.nc
+  hashes:
+    binhash: ea1f34f4d693542aea550e5b303d3d76
+    md5: 5fbe1570da47c731d3be16d84a7e654d

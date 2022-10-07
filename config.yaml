@@ -1,4 +1,4 @@
-project: x77
+project: tm70
 queue: normal
 ncpus: 1756
 jobfs: 10GB
@@ -6,19 +6,23 @@ jobfs: 10GB
 walltime: 02:00:00
 jobname: OM4_025.JRA
 
-shortpath: /scratch/x77
+shortpath: /scratch/tm70
 
 model: mom6
-exe: /scratch/x77/ahg157/mom6/bin/MOM6-panan
-input: OM4_025.JRA
+exe: /g/data/ik11/inputs/mom6/bin/symmetric_FMS2-e7d09b7
+# exe: /scratch/x77/ahg157/mom6/bin/MOM6-panan
+input: /g/data/ik11/inputs/mom6/OM4_025.JRA
+# OM4_025.JRA
 
 collate: false
 runlog: false
 storage:
   gdata:
-    - ua8
-    - x77
+      - ik11
+#       - ua8
+#       - x77
 
 mpi:
-    module: openmpi/4.0.3
+    module: openmpi/4.1.2
+#     module: openmpi/4.0.3
 
